@@ -1,8 +1,9 @@
 # Give the user some context.
 print("\nThis program stores passwords")
 
-#global variable
+#global variable to store the password during the program run
 data = {}
+
 
 def read_passworddb_file():
     with open("data.txt", "r") as file:
