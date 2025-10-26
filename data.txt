@@ -1,6 +1,2 @@
-ann:dqqszg:annurl
-bob:jjjjjjjjjjjjjjjj:hhhhhhhhhhhhhhhhh
-john:uuuuuuuuuuuuuuu:urljjjjjjjjjjjjjjjjjj
-vincent:mreuxvvho:url vincent
-shelly:szgvkhoo~:shelly
-frank:iudqfr|456:www.franco.com
+bob:ereszg:www.bob.com
+jill:mlooszg:www.jill.com
